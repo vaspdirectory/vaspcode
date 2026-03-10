@@ -138,6 +138,13 @@ VASPdirectory maintains this specification and assigns all VASPcodes during the 
 
 Feedback and suggestions are welcome via [GitHub Issues](https://github.com/vaspdirectory/vaspcode/issues).
 
+## How to cite
+
+VASPdirectory. (2026). *VASPcode Specification v0.1*. Zenodo.
+[https://doi.org/10.5281/zenodo.18933268](url)
+
+If you reference VASPcode in a whitepaper, policy document, or product, please cite the specification and link to this repository.
+
 ## Licence
 
 This specification is published under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
